@@ -1,0 +1,17 @@
+h1 {
+    color: rgb(72, 12, 116);
+}
+.header {
+    background-color: forestgreen;
+    display:flex;
+    justify-content: space-between;
+}
+.grid {
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.footer {
+    display:flex;
+    justify-content: flex-end;
+}
